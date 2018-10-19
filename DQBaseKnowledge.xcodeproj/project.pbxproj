@@ -15,6 +15,18 @@
 		CCD3DBEC2179E28E00EC104A /* DQBaseKnowledgeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DBEB2179E28E00EC104A /* DQBaseKnowledgeTests.swift */; };
 		CCD3DBF72179E28E00EC104A /* DQBaseKnowledgeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DBF62179E28E00EC104A /* DQBaseKnowledgeUITests.swift */; };
 		CCD3DC062179E29E00EC104A /* DQCodableFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC052179E29E00EC104A /* DQCodableFile.swift */; };
+		CCD3DC142179E49600EC104A /* Ex_ViewContorller.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC082179E49600EC104A /* Ex_ViewContorller.swift */; };
+		CCD3DC152179E49600EC104A /* Ex_NSObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC092179E49600EC104A /* Ex_NSObject.swift */; };
+		CCD3DC162179E49600EC104A /* Ex_TableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC0A2179E49600EC104A /* Ex_TableCell.swift */; };
+		CCD3DC172179E49600EC104A /* Ex_Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC0B2179E49600EC104A /* Ex_Device.swift */; };
+		CCD3DC182179E49600EC104A /* Ex_String.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC0C2179E49600EC104A /* Ex_String.swift */; };
+		CCD3DC192179E49600EC104A /* Ex_Window.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC0D2179E49600EC104A /* Ex_Window.swift */; };
+		CCD3DC1A2179E49600EC104A /* UIImageExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC0E2179E49600EC104A /* UIImageExtensions.swift */; };
+		CCD3DC1B2179E49600EC104A /* Ex_PrimaryType.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC0F2179E49600EC104A /* Ex_PrimaryType.swift */; };
+		CCD3DC1C2179E49600EC104A /* Ex_UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC102179E49600EC104A /* Ex_UIColor.swift */; };
+		CCD3DC1D2179E49600EC104A /* GlobalFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC112179E49600EC104A /* GlobalFunction.swift */; };
+		CCD3DC1E2179E49600EC104A /* UIImage+VisionDetection.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC122179E49600EC104A /* UIImage+VisionDetection.swift */; };
+		CCD3DC1F2179E49600EC104A /* UIAlertControllerExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD3DC132179E49600EC104A /* UIAlertControllerExtensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +61,18 @@
 		CCD3DBF62179E28E00EC104A /* DQBaseKnowledgeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DQBaseKnowledgeUITests.swift; sourceTree = "<group>"; };
 		CCD3DBF82179E28E00EC104A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CCD3DC052179E29E00EC104A /* DQCodableFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DQCodableFile.swift; sourceTree = "<group>"; };
+		CCD3DC082179E49600EC104A /* Ex_ViewContorller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ex_ViewContorller.swift; sourceTree = "<group>"; };
+		CCD3DC092179E49600EC104A /* Ex_NSObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ex_NSObject.swift; sourceTree = "<group>"; };
+		CCD3DC0A2179E49600EC104A /* Ex_TableCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ex_TableCell.swift; sourceTree = "<group>"; };
+		CCD3DC0B2179E49600EC104A /* Ex_Device.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ex_Device.swift; sourceTree = "<group>"; };
+		CCD3DC0C2179E49600EC104A /* Ex_String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ex_String.swift; sourceTree = "<group>"; };
+		CCD3DC0D2179E49600EC104A /* Ex_Window.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ex_Window.swift; sourceTree = "<group>"; };
+		CCD3DC0E2179E49600EC104A /* UIImageExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageExtensions.swift; sourceTree = "<group>"; };
+		CCD3DC0F2179E49600EC104A /* Ex_PrimaryType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ex_PrimaryType.swift; sourceTree = "<group>"; };
+		CCD3DC102179E49600EC104A /* Ex_UIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ex_UIColor.swift; sourceTree = "<group>"; };
+		CCD3DC112179E49600EC104A /* GlobalFunction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalFunction.swift; sourceTree = "<group>"; };
+		CCD3DC122179E49600EC104A /* UIImage+VisionDetection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+VisionDetection.swift"; sourceTree = "<group>"; };
+		CCD3DC132179E49600EC104A /* UIAlertControllerExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIAlertControllerExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +123,7 @@
 		CCD3DBD52179E28D00EC104A /* DQBaseKnowledge */ = {
 			isa = PBXGroup;
 			children = (
+				CCD3DC072179E49600EC104A /* WpExtension */,
 				CCD3DC042179E29E00EC104A /* DQCodable */,
 				CCD3DBD62179E28D00EC104A /* AppDelegate.swift */,
 				CCD3DBD82179E28D00EC104A /* ViewController.swift */,
@@ -134,6 +159,25 @@
 				CCD3DC052179E29E00EC104A /* DQCodableFile.swift */,
 			);
 			path = DQCodable;
+			sourceTree = "<group>";
+		};
+		CCD3DC072179E49600EC104A /* WpExtension */ = {
+			isa = PBXGroup;
+			children = (
+				CCD3DC082179E49600EC104A /* Ex_ViewContorller.swift */,
+				CCD3DC092179E49600EC104A /* Ex_NSObject.swift */,
+				CCD3DC0A2179E49600EC104A /* Ex_TableCell.swift */,
+				CCD3DC0B2179E49600EC104A /* Ex_Device.swift */,
+				CCD3DC0C2179E49600EC104A /* Ex_String.swift */,
+				CCD3DC0D2179E49600EC104A /* Ex_Window.swift */,
+				CCD3DC0E2179E49600EC104A /* UIImageExtensions.swift */,
+				CCD3DC0F2179E49600EC104A /* Ex_PrimaryType.swift */,
+				CCD3DC102179E49600EC104A /* Ex_UIColor.swift */,
+				CCD3DC112179E49600EC104A /* GlobalFunction.swift */,
+				CCD3DC122179E49600EC104A /* UIImage+VisionDetection.swift */,
+				CCD3DC132179E49600EC104A /* UIAlertControllerExtensions.swift */,
+			);
+			path = WpExtension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -268,8 +312,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				CCD3DBD92179E28D00EC104A /* ViewController.swift in Sources */,
+				CCD3DC162179E49600EC104A /* Ex_TableCell.swift in Sources */,
+				CCD3DC172179E49600EC104A /* Ex_Device.swift in Sources */,
+				CCD3DC142179E49600EC104A /* Ex_ViewContorller.swift in Sources */,
+				CCD3DC1C2179E49600EC104A /* Ex_UIColor.swift in Sources */,
+				CCD3DC1E2179E49600EC104A /* UIImage+VisionDetection.swift in Sources */,
+				CCD3DC192179E49600EC104A /* Ex_Window.swift in Sources */,
+				CCD3DC1F2179E49600EC104A /* UIAlertControllerExtensions.swift in Sources */,
 				CCD3DBD72179E28D00EC104A /* AppDelegate.swift in Sources */,
+				CCD3DC1D2179E49600EC104A /* GlobalFunction.swift in Sources */,
+				CCD3DC182179E49600EC104A /* Ex_String.swift in Sources */,
+				CCD3DC1B2179E49600EC104A /* Ex_PrimaryType.swift in Sources */,
+				CCD3DC1A2179E49600EC104A /* UIImageExtensions.swift in Sources */,
 				CCD3DC062179E29E00EC104A /* DQCodableFile.swift in Sources */,
+				CCD3DC152179E49600EC104A /* Ex_NSObject.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
