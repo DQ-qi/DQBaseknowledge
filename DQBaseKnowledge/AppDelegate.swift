@@ -16,6 +16,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        self.window = UIWindow(frame: UIScreen.main.bounds)
+        self.window?.backgroundColor = UIColor.black
+        
+        let dqExampleCtl = DQExampleListViewController()
+        let naviCtl = DQNavigationViewController.init(rootViewController: dqExampleCtl)
+        self.window?.rootViewController = naviCtl
+        
         return true
     }
 
