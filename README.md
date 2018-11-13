@@ -12,17 +12,17 @@
 - [截屏](#Screenshots)
 
 
-### 网络监测
+## 网络监测
 
     由于一般的网络的监测只有 WiFi、4G、3G 2G 无网的监测,所以在此添加一个运营商的监测。
     如图所示,可监测中国移动 4G网络 中国联通 3G网络 WIFI网络等。
-<div align=center><img width="125" height="225" src="https://pan.baidu.com/s/1YmZrPL1eecalNk6UiezhmQ"/></div>
+<div align=center><img width="125" height="225" src="https://github.com/DQ-qi/DQBaseknowledge/blob/master/network.png"/></div>
 
-### 加解密
-
-
-
-### 压缩解压
+## 加解密
 
 
-### webSocket 
+
+## Compression
+
+
+## webSocket 
