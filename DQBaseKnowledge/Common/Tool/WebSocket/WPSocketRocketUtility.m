@@ -163,7 +163,6 @@ typedef NS_OPTIONS(NSUInteger, WPSendMessageStatus) {
  开始建立连接
  */
 -(void)WP_WebSocketStartConnections {
-    //https://socket.benchig63.com
 //    NSString *strPrefix  = @"https://";
 //    NSString *fromStr = [NC_Host substringFromIndex:strPrefix.length];
     if (self.socketUrl) {
