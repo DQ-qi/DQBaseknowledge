@@ -28,4 +28,7 @@
 ## webSocket 
 
 ## 好用的第三方:
+   - [牛叉的iOS大全](https://github.com/vsouza/awesome-ios/)-ios各种牛逼的代码库
    - [树状列表](https://github.com/Augustyniak/RATreeView/)-多级cell列表的增加
+   - [弹幕](https://github.com/unash/BarrageRenderer/)-弹幕效果
+   - 
